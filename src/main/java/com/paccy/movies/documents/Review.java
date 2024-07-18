@@ -1,4 +1,4 @@
-package com.paccy.movies;
+package com.paccy.movies.documents;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
