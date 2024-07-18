@@ -18,7 +18,7 @@ public class Movie {
 
     @Id
     private ObjectId id;
-    private String imdbid;
+    private String imdbId;
     private String title;
     private String releaseDate;
     private String trailorLink;
